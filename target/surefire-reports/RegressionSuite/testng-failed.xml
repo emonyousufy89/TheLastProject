@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test name="Shopping(failed)">
+    <classes>
+      <class name="com.talentech.seleniumscripts.ShoppingTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="testCardShopping"/>
+        </methods>
+      </class> <!-- com.talentech.seleniumscripts.ShoppingTest -->
+    </classes>
+  </test> <!-- Shopping(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->
